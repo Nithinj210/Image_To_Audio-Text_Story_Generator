@@ -4,3 +4,4 @@ openai
 huggingface_hub
 pillow
 streamlit
+tokenizers
